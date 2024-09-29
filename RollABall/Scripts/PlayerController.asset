@@ -24428,7 +24428,7 @@ MonoBehaviour:
         Entry: 8
         Data: 
       serializedType: 
-  namespace: 
+  namespace: uNodeSample.RollABall
   usingNamespaces:
   - UnityEngine
   - UnityEngine.UI
