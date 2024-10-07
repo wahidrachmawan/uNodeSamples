@@ -3397,7 +3397,7 @@ MonoBehaviour:
   scriptData:
     fileName: Rotator
     selfTypeData:
-      typeName: Rotator
+      typeName: uNodeSample.RollABall.Rotator
       reference: {fileID: 0}
     typeDatas: []
     debug: 0

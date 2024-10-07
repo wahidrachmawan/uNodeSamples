@@ -9474,7 +9474,7 @@ MonoBehaviour:
   scriptData:
     fileName: CameraController
     selfTypeData:
-      typeName: CameraController
+      typeName: uNodeSample.RollABall.CameraController
       reference: {fileID: 0}
     typeDatas: []
     debug: 0
