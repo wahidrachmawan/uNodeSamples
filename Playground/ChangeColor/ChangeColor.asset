@@ -41,7 +41,7 @@ MonoBehaviour:
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
-        Data: 3
+        Data: 4
       - Name: 
         Entry: 7
         Data: 2|MaxyGames.UNode.FunctionContainer, uNode3.Core
@@ -3678,23 +3678,47 @@ MonoBehaviour:
         Entry: 8
         Data: 
       - Name: targetSerializedType
+        Entry: 7
+        Data: 278|MaxyGames.UNode.SerializedType, uNode3.Core
+      - Name: kind
+        Entry: 3
+        Data: 0
+      - Name: serializedString
         Entry: 6
         Data: 
-      - Name: _items
+      - Name: serializedBytes
         Entry: 6
+        Data: 
+      - Name: references
+        Entry: 6
+        Data: 
+      - Name: 
+        Entry: 8
+        Data: 
+      - Name: _items
+        Entry: 7
+        Data: 279|MaxyGames.UNode.MemberData+ItemData[], uNode3.Core
+      - Name: 
+        Entry: 12
+        Data: 0
+      - Name: 
+        Entry: 13
+        Data: 
+      - Name: 
+        Entry: 8
         Data: 
       - Name: _instance
         Entry: 7
-        Data: 278|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 280|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 279|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 281|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 280|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 282|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -3707,7 +3731,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 281|System.Byte[], mscorlib
+        Data: 283|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000116000000530079007300740065006d002e0049006e007400330032002c0020006d00730063006f0072006c006900620000000000180000000005
@@ -3725,7 +3749,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 282|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 284|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -3734,7 +3758,7 @@ MonoBehaviour:
         Data: System.Int32
       - Name: serializedBytes
         Entry: 7
-        Data: 283|System.Byte[], mscorlib
+        Data: 285|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -3758,7 +3782,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 284|MaxyGames.UNode.ValueInput, uNode3.Core
+        Data: 286|MaxyGames.UNode.ValueInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: -0-1
@@ -3776,7 +3800,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 285|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 287|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -3789,7 +3813,7 @@ MonoBehaviour:
         Data: 
       - Name: defaultValue
         Entry: 7
-        Data: 286|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 288|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: false
@@ -3798,7 +3822,7 @@ MonoBehaviour:
         Data: 2
       - Name: startSerializedType
         Entry: 7
-        Data: 287|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 289|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -3807,7 +3831,7 @@ MonoBehaviour:
         Data: System.Int32
       - Name: serializedBytes
         Entry: 7
-        Data: 288|System.Byte[], mscorlib
+        Data: 290|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -3821,23 +3845,38 @@ MonoBehaviour:
         Entry: 8
         Data: 
       - Name: targetSerializedType
+        Entry: 7
+        Data: 291|MaxyGames.UNode.SerializedType, uNode3.Core
+      - Name: kind
+        Entry: 3
+        Data: 0
+      - Name: serializedString
         Entry: 6
+        Data: 
+      - Name: serializedBytes
+        Entry: 6
+        Data: 
+      - Name: references
+        Entry: 6
+        Data: 
+      - Name: 
+        Entry: 8
         Data: 
       - Name: _items
-        Entry: 6
-        Data: 
+        Entry: 9
+        Data: 279
       - Name: _instance
         Entry: 7
-        Data: 289|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 292|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 290|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 293|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 291|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 294|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -3850,7 +3889,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 292|System.Byte[], mscorlib
+        Data: 295|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000116000000530079007300740065006d002e0049006e007400330032002c0020006d00730063006f0072006c006900620000000000180100000005
@@ -3868,7 +3907,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 293|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 296|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -3877,7 +3916,7 @@ MonoBehaviour:
         Data: System.Int32
       - Name: serializedBytes
         Entry: 7
-        Data: 294|System.Byte[], mscorlib
+        Data: 297|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -3910,18 +3949,18 @@ MonoBehaviour:
         Data: 
       - Name: ValueOutputs
         Entry: 7
-        Data: 295|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueOutput, uNode3.Core]],
+        Data: 298|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueOutput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 296|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueOutput,
+        Data: 299|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueOutput,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 7
-        Data: 297|MaxyGames.UNode.ValueOutput, uNode3.Core
+        Data: 300|MaxyGames.UNode.ValueOutput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: out
@@ -3933,16 +3972,16 @@ MonoBehaviour:
         Data: 
       - Name: canGetValue
         Entry: 7
-        Data: 298|System.Func`1[[System.Boolean, mscorlib]], mscorlib
+        Data: 301|System.Func`1[[System.Boolean, mscorlib]], mscorlib
       - Name: target
         Entry: 7
-        Data: 299|MaxyGames.UNode.MultipurposeNode, uNode3.Core
+        Data: 302|MaxyGames.UNode.MultipurposeNode, uNode3.Core
       - Name: member
         Entry: 7
-        Data: 300|MaxyGames.UNode.MultipurposeMember, uNode3.Core
+        Data: 303|MaxyGames.UNode.MultipurposeMember, uNode3.Core
       - Name: target
         Entry: 7
-        Data: 301|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 304|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: true
@@ -3951,7 +3990,7 @@ MonoBehaviour:
         Data: 32
       - Name: startSerializedType
         Entry: 7
-        Data: 302|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 305|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -3960,7 +3999,7 @@ MonoBehaviour:
         Data: UnityEngine.Random
       - Name: serializedBytes
         Entry: 7
-        Data: 303|System.Byte[], mscorlib
+        Data: 306|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -3975,7 +4014,7 @@ MonoBehaviour:
         Data: 
       - Name: targetSerializedType
         Entry: 7
-        Data: 304|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 307|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -3984,7 +4023,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 305|System.Byte[], mscorlib
+        Data: 308|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -3999,13 +4038,13 @@ MonoBehaviour:
         Data: 
       - Name: _items
         Entry: 7
-        Data: 306|MaxyGames.UNode.MemberData+ItemData[], uNode3.Core
+        Data: 309|MaxyGames.UNode.MemberData+ItemData[], uNode3.Core
       - Name: 
         Entry: 12
         Data: 2
       - Name: 
         Entry: 7
-        Data: 307|MaxyGames.UNode.MemberData+ItemData, uNode3.Core
+        Data: 310|MaxyGames.UNode.MemberData+ItemData, uNode3.Core
       - Name: name
         Entry: 1
         Data: Random
@@ -4023,7 +4062,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 308|MaxyGames.UNode.MemberData+ItemData, uNode3.Core
+        Data: 311|MaxyGames.UNode.MemberData+ItemData, uNode3.Core
       - Name: name
         Entry: 1
         Data: Range
@@ -4032,13 +4071,13 @@ MonoBehaviour:
         Data: 
       - Name: parameters
         Entry: 7
-        Data: 309|MaxyGames.UNode.TypeData[], uNode3.Core
+        Data: 312|MaxyGames.UNode.TypeData[], uNode3.Core
       - Name: 
         Entry: 12
         Data: 2
       - Name: 
         Entry: 7
-        Data: 310|MaxyGames.UNode.TypeData, uNode3.Core
+        Data: 313|MaxyGames.UNode.TypeData, uNode3.Core
       - Name: name
         Entry: 1
         Data: System.Single
@@ -4053,7 +4092,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 311|MaxyGames.UNode.TypeData, uNode3.Core
+        Data: 314|MaxyGames.UNode.TypeData, uNode3.Core
       - Name: name
         Entry: 1
         Data: System.Single
@@ -4092,7 +4131,7 @@ MonoBehaviour:
         Data: 
       - Name: initializers
         Entry: 7
-        Data: 312|System.Collections.Generic.List`1[[MaxyGames.UNode.MultipurposeMember+InitializerData,
+        Data: 315|System.Collections.Generic.List`1[[MaxyGames.UNode.MultipurposeMember+InitializerData,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -4123,7 +4162,7 @@ MonoBehaviour:
         Data: 34
       - Name: signature
         Entry: 7
-        Data: 313|System.Type[], mscorlib
+        Data: 316|System.Type[], mscorlib
       - Name: 
         Entry: 12
         Data: 0
@@ -4138,10 +4177,10 @@ MonoBehaviour:
         Data: 
       - Name: canSetValue
         Entry: 7
-        Data: 314|System.Func`1[[System.Boolean, mscorlib]], mscorlib
+        Data: 317|System.Func`1[[System.Boolean, mscorlib]], mscorlib
       - Name: target
         Entry: 9
-        Data: 299
+        Data: 302
       - Name: declaringType
         Entry: 9
         Data: 33
@@ -4153,7 +4192,7 @@ MonoBehaviour:
         Data: 34
       - Name: signature
         Entry: 7
-        Data: 315|System.Type[], mscorlib
+        Data: 318|System.Type[], mscorlib
       - Name: 
         Entry: 12
         Data: 0
@@ -4168,20 +4207,20 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 316|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 319|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 3
       - Name: 
         Entry: 7
-        Data: 317|MaxyGames.UNode.ValueConnection, uNode3.Core
+        Data: 320|MaxyGames.UNode.ValueConnection, uNode3.Core
       - Name: isProxy
         Entry: 5
         Data: false
       - Name: input
         Entry: 7
-        Data: 318|MaxyGames.UNode.ValueInput, uNode3.Core
+        Data: 321|MaxyGames.UNode.ValueInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: -0-0
@@ -4199,14 +4238,14 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 319|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 322|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 9
-        Data: 317
+        Data: 320
       - Name: 
         Entry: 13
         Data: 
@@ -4215,7 +4254,7 @@ MonoBehaviour:
         Data: 
       - Name: defaultValue
         Entry: 7
-        Data: 320|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 323|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: false
@@ -4224,7 +4263,7 @@ MonoBehaviour:
         Data: 2
       - Name: startSerializedType
         Entry: 7
-        Data: 321|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 324|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4233,7 +4272,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 322|System.Byte[], mscorlib
+        Data: 325|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4254,16 +4293,16 @@ MonoBehaviour:
         Data: 
       - Name: _instance
         Entry: 7
-        Data: 323|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 326|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 324|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 327|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 325|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 328|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -4276,7 +4315,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 326|System.Byte[], mscorlib
+        Data: 329|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000117000000530079007300740065006d002e00530069006e0067006c0065002c0020006d00730063006f0072006c006900620000000000200000000005
@@ -4294,7 +4333,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 327|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 330|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4303,7 +4342,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 328|System.Byte[], mscorlib
+        Data: 331|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4327,19 +4366,19 @@ MonoBehaviour:
         Data: 
       - Name: output
         Entry: 9
-        Data: 297
+        Data: 300
       - Name: 
         Entry: 8
         Data: 
       - Name: 
         Entry: 7
-        Data: 329|MaxyGames.UNode.ValueConnection, uNode3.Core
+        Data: 332|MaxyGames.UNode.ValueConnection, uNode3.Core
       - Name: isProxy
         Entry: 5
         Data: false
       - Name: input
         Entry: 7
-        Data: 330|MaxyGames.UNode.ValueInput, uNode3.Core
+        Data: 333|MaxyGames.UNode.ValueInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: -0-1
@@ -4357,14 +4396,14 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 331|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 334|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 9
-        Data: 329
+        Data: 332
       - Name: 
         Entry: 13
         Data: 
@@ -4373,7 +4412,7 @@ MonoBehaviour:
         Data: 
       - Name: defaultValue
         Entry: 7
-        Data: 332|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 335|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: false
@@ -4382,7 +4421,7 @@ MonoBehaviour:
         Data: 2
       - Name: startSerializedType
         Entry: 7
-        Data: 333|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 336|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4391,7 +4430,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 334|System.Byte[], mscorlib
+        Data: 337|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4412,16 +4451,16 @@ MonoBehaviour:
         Data: 
       - Name: _instance
         Entry: 7
-        Data: 335|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 338|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 336|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 339|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 337|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 340|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -4434,7 +4473,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 338|System.Byte[], mscorlib
+        Data: 341|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000117000000530079007300740065006d002e00530069006e0067006c0065002c0020006d00730063006f0072006c006900620000000000200000000005
@@ -4452,7 +4491,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 339|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 342|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4461,7 +4500,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 340|System.Byte[], mscorlib
+        Data: 343|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4485,19 +4524,19 @@ MonoBehaviour:
         Data: 
       - Name: output
         Entry: 9
-        Data: 297
+        Data: 300
       - Name: 
         Entry: 8
         Data: 
       - Name: 
         Entry: 7
-        Data: 341|MaxyGames.UNode.ValueConnection, uNode3.Core
+        Data: 344|MaxyGames.UNode.ValueConnection, uNode3.Core
       - Name: isProxy
         Entry: 5
         Data: false
       - Name: input
         Entry: 7
-        Data: 342|MaxyGames.UNode.ValueInput, uNode3.Core
+        Data: 345|MaxyGames.UNode.ValueInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: -0-2
@@ -4515,14 +4554,14 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 343|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 346|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 9
-        Data: 341
+        Data: 344
       - Name: 
         Entry: 13
         Data: 
@@ -4531,7 +4570,7 @@ MonoBehaviour:
         Data: 
       - Name: defaultValue
         Entry: 7
-        Data: 344|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 347|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: false
@@ -4540,7 +4579,7 @@ MonoBehaviour:
         Data: 2
       - Name: startSerializedType
         Entry: 7
-        Data: 345|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 348|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4549,7 +4588,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 346|System.Byte[], mscorlib
+        Data: 349|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4570,16 +4609,16 @@ MonoBehaviour:
         Data: 
       - Name: _instance
         Entry: 7
-        Data: 347|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 350|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 348|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 351|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 349|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 352|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -4592,7 +4631,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 350|System.Byte[], mscorlib
+        Data: 353|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000117000000530079007300740065006d002e00530069006e0067006c0065002c0020006d00730063006f0072006c006900620000000000200000000005
@@ -4610,7 +4649,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 351|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 354|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4619,7 +4658,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 352|System.Byte[], mscorlib
+        Data: 355|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4643,7 +4682,7 @@ MonoBehaviour:
         Data: 
       - Name: output
         Entry: 9
-        Data: 297
+        Data: 300
       - Name: 
         Entry: 8
         Data: 
@@ -4670,18 +4709,18 @@ MonoBehaviour:
         Data: 
       - Name: FlowInputs
         Entry: 7
-        Data: 353|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
+        Data: 356|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 354|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
+        Data: 357|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
           mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 7
-        Data: 355|MaxyGames.UNode.FlowInput, uNode3.Core
+        Data: 358|MaxyGames.UNode.FlowInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: enter
@@ -4693,7 +4732,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 356|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
+        Data: 359|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -4718,18 +4757,18 @@ MonoBehaviour:
         Data: 
       - Name: FlowOutputs
         Entry: 7
-        Data: 357|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowOutput, uNode3.Core]],
+        Data: 360|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowOutput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 358|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowOutput,
+        Data: 361|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowOutput,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 7
-        Data: 359|MaxyGames.UNode.FlowOutput, uNode3.Core
+        Data: 362|MaxyGames.UNode.FlowOutput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: exit
@@ -4741,7 +4780,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 360|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
+        Data: 363|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -4793,10 +4832,10 @@ MonoBehaviour:
         Data: 
       - Name: _nodeSerializedData
         Entry: 7
-        Data: 361|MaxyGames.UNode.NodeSerializedData, uNode3.Core
+        Data: 364|MaxyGames.UNode.NodeSerializedData, uNode3.Core
       - Name: data
         Entry: 7
-        Data: 362|System.Byte[], mscorlib
+        Data: 365|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f00000000012d0000004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004e006f00640065002c00200075004e006f006400650033002e0043006f0072006500010000000101060000006d0065006d006200650072002f01000000012f0000004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004d0065006d006200650072002c00200075004e006f006400650033002e0043006f0072006500020000000b01060000007400610072006700650074000000000001010c00000069006e0069007400690061006c0069007a006500720073002f02000000016e000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e004c00690073007400600031005b005b004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004d0065006d006200650072002b0049006e0069007400690061006c0069007a006500720044006100740061002c00200075004e006f006400650033002e0043006f00720065005d005d002c0020006d00730063006f0072006c0069006200030000000600000000000000000705052b01130000007500730065004f007500740070007500740050006100720061006d00650074006500720073000105
@@ -4805,13 +4844,13 @@ MonoBehaviour:
         Data: 
       - Name: references
         Entry: 7
-        Data: 363|System.Collections.Generic.List`1[[System.Object, mscorlib]], mscorlib
+        Data: 366|System.Collections.Generic.List`1[[System.Object, mscorlib]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 9
-        Data: 301
+        Data: 304
       - Name: 
         Entry: 13
         Data: 
@@ -4826,7 +4865,7 @@ MonoBehaviour:
         Data: 
       - Name: _invalidPorts
         Entry: 7
-        Data: 364|System.Collections.Generic.List`1[[MaxyGames.UNode.UPort, uNode3.Core]],
+        Data: 367|System.Collections.Generic.List`1[[MaxyGames.UNode.UPort, uNode3.Core]],
           mscorlib
       - Name: 
         Entry: 12
@@ -4842,7 +4881,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 365|MaxyGames.UNode.NodeObject, uNode3.Core
+        Data: 368|MaxyGames.UNode.NodeObject, uNode3.Core
       - Name: _name
         Entry: 1
         Data: Node 6
@@ -4857,7 +4896,7 @@ MonoBehaviour:
         Data: 104
       - Name: childs
         Entry: 7
-        Data: 366|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+        Data: 369|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -4876,27 +4915,27 @@ MonoBehaviour:
         Data: false
       - Name: ValueInputs
         Entry: 7
-        Data: 367|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueInput, uNode3.Core]],
+        Data: 370|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueInput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 368|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueInput,
+        Data: 371|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueInput,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 4
       - Name: 
         Entry: 9
-        Data: 318
+        Data: 321
       - Name: 
         Entry: 9
-        Data: 330
+        Data: 333
       - Name: 
         Entry: 9
-        Data: 342
+        Data: 345
       - Name: 
         Entry: 7
-        Data: 369|MaxyGames.UNode.ValueInput, uNode3.Core
+        Data: 372|MaxyGames.UNode.ValueInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: -0-3
@@ -4914,7 +4953,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 370|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
+        Data: 373|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -4927,7 +4966,7 @@ MonoBehaviour:
         Data: 
       - Name: defaultValue
         Entry: 7
-        Data: 371|MaxyGames.UNode.MemberData, uNode3.Core
+        Data: 374|MaxyGames.UNode.MemberData, uNode3.Core
       - Name: _isStatic
         Entry: 5
         Data: false
@@ -4936,7 +4975,7 @@ MonoBehaviour:
         Data: 2
       - Name: startSerializedType
         Entry: 7
-        Data: 372|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 375|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -4945,7 +4984,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 373|System.Byte[], mscorlib
+        Data: 376|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -4959,23 +4998,38 @@ MonoBehaviour:
         Entry: 8
         Data: 
       - Name: targetSerializedType
+        Entry: 7
+        Data: 377|MaxyGames.UNode.SerializedType, uNode3.Core
+      - Name: kind
+        Entry: 3
+        Data: 0
+      - Name: serializedString
         Entry: 6
+        Data: 
+      - Name: serializedBytes
+        Entry: 6
+        Data: 
+      - Name: references
+        Entry: 6
+        Data: 
+      - Name: 
+        Entry: 8
         Data: 
       - Name: _items
-        Entry: 6
-        Data: 
+        Entry: 9
+        Data: 279
       - Name: _instance
         Entry: 7
-        Data: 374|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 378|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 375|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 379|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 376|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 380|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -4988,7 +5042,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 377|System.Byte[], mscorlib
+        Data: 381|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f000000000117000000530079007300740065006d002e00530069006e0067006c0065002c0020006d00730063006f0072006c006900620000000000200000803f05
@@ -5006,7 +5060,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 378|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 382|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -5015,7 +5069,7 @@ MonoBehaviour:
         Data: System.Single
       - Name: serializedBytes
         Entry: 7
-        Data: 379|System.Byte[], mscorlib
+        Data: 383|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5048,11 +5102,11 @@ MonoBehaviour:
         Data: 
       - Name: ValueOutputs
         Entry: 7
-        Data: 380|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueOutput, uNode3.Core]],
+        Data: 384|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.ValueOutput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 381|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueOutput,
+        Data: 385|System.Collections.Generic.List`1[[MaxyGames.UNode.ValueOutput,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5071,18 +5125,18 @@ MonoBehaviour:
         Data: 
       - Name: FlowInputs
         Entry: 7
-        Data: 382|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
+        Data: 386|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 383|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
+        Data: 387|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowInput, uNode3.Core]],
           mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 7
-        Data: 384|MaxyGames.UNode.FlowInput, uNode3.Core
+        Data: 388|MaxyGames.UNode.FlowInput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: enter
@@ -5094,7 +5148,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 385|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
+        Data: 389|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5119,18 +5173,18 @@ MonoBehaviour:
         Data: 
       - Name: FlowOutputs
         Entry: 7
-        Data: 386|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowOutput, uNode3.Core]],
+        Data: 390|MaxyGames.UNode.NodePorts`1[[MaxyGames.UNode.FlowOutput, uNode3.Core]],
           uNode3.Core
       - Name: items
         Entry: 7
-        Data: 387|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowOutput,
+        Data: 391|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowOutput,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
       - Name: 
         Entry: 7
-        Data: 388|MaxyGames.UNode.FlowOutput, uNode3.Core
+        Data: 392|MaxyGames.UNode.FlowOutput, uNode3.Core
       - Name: _id
         Entry: 1
         Data: exit
@@ -5142,7 +5196,7 @@ MonoBehaviour:
         Data: 
       - Name: connections
         Entry: 7
-        Data: 389|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
+        Data: 393|System.Collections.Generic.List`1[[MaxyGames.UNode.FlowConnection,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5194,10 +5248,10 @@ MonoBehaviour:
         Data: 
       - Name: _nodeSerializedData
         Entry: 7
-        Data: 390|MaxyGames.UNode.NodeSerializedData, uNode3.Core
+        Data: 394|MaxyGames.UNode.NodeSerializedData, uNode3.Core
       - Name: data
         Entry: 7
-        Data: 391|System.Byte[], mscorlib
+        Data: 395|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 022f00000000012d0000004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004e006f00640065002c00200075004e006f006400650033002e0043006f0072006500010000000101060000006d0065006d006200650072002f01000000012f0000004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004d0065006d006200650072002c00200075004e006f006400650033002e0043006f0072006500020000000b01060000007400610072006700650074000000000001010c00000069006e0069007400690061006c0069007a006500720073002f02000000016e000000530079007300740065006d002e0043006f006c006c0065006300740069006f006e0073002e00470065006e0065007200690063002e004c00690073007400600031005b005b004d00610078007900470061006d00650073002e0055004e006f00640065002e004d0075006c007400690070007500720070006f00730065004d0065006d006200650072002b0049006e0069007400690061006c0069007a006500720044006100740061002c00200075004e006f006400650033002e0043006f00720065005d005d002c0020006d00730063006f0072006c0069006200030000000600000000000000000705052b01130000007500730065004f007500740070007500740050006100720061006d00650074006500720073000105
@@ -5206,7 +5260,7 @@ MonoBehaviour:
         Data: 
       - Name: references
         Entry: 7
-        Data: 392|System.Collections.Generic.List`1[[System.Object, mscorlib]], mscorlib
+        Data: 396|System.Collections.Generic.List`1[[System.Object, mscorlib]], mscorlib
       - Name: 
         Entry: 12
         Data: 1
@@ -5227,7 +5281,7 @@ MonoBehaviour:
         Data: 
       - Name: _invalidPorts
         Entry: 7
-        Data: 393|System.Collections.Generic.List`1[[MaxyGames.UNode.UPort, uNode3.Core]],
+        Data: 397|System.Collections.Generic.List`1[[MaxyGames.UNode.UPort, uNode3.Core]],
           mscorlib
       - Name: 
         Entry: 12
@@ -5258,7 +5312,7 @@ MonoBehaviour:
         Data: 106
       - Name: parameters
         Entry: 7
-        Data: 394|System.Collections.Generic.List`1[[MaxyGames.UNode.ParameterData,
+        Data: 398|System.Collections.Generic.List`1[[MaxyGames.UNode.ParameterData,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5271,7 +5325,7 @@ MonoBehaviour:
         Data: 
       - Name: modifier
         Entry: 7
-        Data: 395|MaxyGames.UNode.FunctionModifier, uNode3.Core
+        Data: 399|MaxyGames.UNode.FunctionModifier, uNode3.Core
       - Name: Public
         Entry: 5
         Data: true
@@ -5319,7 +5373,7 @@ MonoBehaviour:
         Data: 
       - Name: returnType
         Entry: 7
-        Data: 396|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 400|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -5328,7 +5382,7 @@ MonoBehaviour:
         Data: System.Void
       - Name: serializedBytes
         Entry: 7
-        Data: 397|System.Byte[], mscorlib
+        Data: 401|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5343,7 +5397,7 @@ MonoBehaviour:
         Data: 
       - Name: attributes
         Entry: 7
-        Data: 398|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
+        Data: 402|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5356,7 +5410,7 @@ MonoBehaviour:
         Data: 
       - Name: genericParameters
         Entry: 7
-        Data: 399|MaxyGames.UNode.GenericParameterData[], uNode3.Core
+        Data: 403|MaxyGames.UNode.GenericParameterData[], uNode3.Core
       - Name: 
         Entry: 12
         Data: 0
@@ -5386,7 +5440,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 400|MaxyGames.UNode.VariableContainer, uNode3.Core
+        Data: 404|MaxyGames.UNode.VariableContainer, uNode3.Core
       - Name: _name
         Entry: 6
         Data: 
@@ -5401,14 +5455,14 @@ MonoBehaviour:
         Data: 0
       - Name: childs
         Entry: 7
-        Data: 401|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+        Data: 405|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
         Data: 2
       - Name: 
         Entry: 7
-        Data: 402|MaxyGames.UNode.Variable, uNode3.Core
+        Data: 406|MaxyGames.UNode.Variable, uNode3.Core
       - Name: _name
         Entry: 1
         Data: mesh
@@ -5420,10 +5474,10 @@ MonoBehaviour:
         Data: 
       - Name: _parent
         Entry: 9
-        Data: 400
+        Data: 404
       - Name: childs
         Entry: 7
-        Data: 403|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+        Data: 407|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5442,16 +5496,16 @@ MonoBehaviour:
         Data: false
       - Name: serializedValue
         Entry: 7
-        Data: 404|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 408|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 405|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 409|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 406|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 410|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -5464,7 +5518,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 407|System.Byte[], mscorlib
+        Data: 411|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5482,7 +5536,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 408|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 412|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -5491,7 +5545,7 @@ MonoBehaviour:
         Data: UnityEngine.MeshRenderer
       - Name: serializedBytes
         Entry: 7
-        Data: 409|System.Byte[], mscorlib
+        Data: 413|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5512,7 +5566,7 @@ MonoBehaviour:
         Data: false
       - Name: attributes
         Entry: 7
-        Data: 410|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
+        Data: 414|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5525,7 +5579,7 @@ MonoBehaviour:
         Data: 
       - Name: modifier
         Entry: 7
-        Data: 411|MaxyGames.UNode.FieldModifier, uNode3.Core
+        Data: 415|MaxyGames.UNode.FieldModifier, uNode3.Core
       - Name: Public
         Entry: 5
         Data: true
@@ -5558,7 +5612,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 412|MaxyGames.UNode.Variable, uNode3.Core
+        Data: 416|MaxyGames.UNode.Variable, uNode3.Core
       - Name: _name
         Entry: 1
         Data: button
@@ -5570,10 +5624,10 @@ MonoBehaviour:
         Data: 
       - Name: _parent
         Entry: 9
-        Data: 400
+        Data: 404
       - Name: childs
         Entry: 7
-        Data: 413|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+        Data: 417|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5592,16 +5646,16 @@ MonoBehaviour:
         Data: false
       - Name: serializedValue
         Entry: 7
-        Data: 414|MaxyGames.UNode.SerializedValue, uNode3.Core
+        Data: 418|MaxyGames.UNode.SerializedValue, uNode3.Core
       - Name: serializedData
         Entry: 7
-        Data: 415|MaxyGames.UNode.OdinSerializedData, uNode3.Core
+        Data: 419|MaxyGames.UNode.OdinSerializedData, uNode3.Core
       - Name: format
         Entry: 3
         Data: 0
       - Name: references
         Entry: 7
-        Data: 416|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
+        Data: 420|System.Collections.Generic.List`1[[UnityEngine.Object, UnityEngine.CoreModule]],
           mscorlib
       - Name: 
         Entry: 12
@@ -5614,7 +5668,7 @@ MonoBehaviour:
         Data: 
       - Name: data
         Entry: 7
-        Data: 417|System.Byte[], mscorlib
+        Data: 421|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5632,7 +5686,7 @@ MonoBehaviour:
         Data: 
       - Name: serializedType
         Entry: 7
-        Data: 418|MaxyGames.UNode.SerializedType, uNode3.Core
+        Data: 422|MaxyGames.UNode.SerializedType, uNode3.Core
       - Name: kind
         Entry: 3
         Data: 1
@@ -5641,7 +5695,7 @@ MonoBehaviour:
         Data: UnityEngine.UI.Button
       - Name: serializedBytes
         Entry: 7
-        Data: 419|System.Byte[], mscorlib
+        Data: 423|System.Byte[], mscorlib
       - Name: 
         Entry: 14
         Data: 
@@ -5662,7 +5716,7 @@ MonoBehaviour:
         Data: false
       - Name: attributes
         Entry: 7
-        Data: 420|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
+        Data: 424|System.Collections.Generic.List`1[[MaxyGames.UNode.AttributeData,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5675,7 +5729,7 @@ MonoBehaviour:
         Data: 
       - Name: modifier
         Entry: 7
-        Data: 421|MaxyGames.UNode.FieldModifier, uNode3.Core
+        Data: 425|MaxyGames.UNode.FieldModifier, uNode3.Core
       - Name: Public
         Entry: 5
         Data: true
@@ -5723,7 +5777,7 @@ MonoBehaviour:
         Data: 
       - Name: 
         Entry: 7
-        Data: 422|MaxyGames.UNode.PropertyContainer, uNode3.Core
+        Data: 426|MaxyGames.UNode.PropertyContainer, uNode3.Core
       - Name: _name
         Entry: 6
         Data: 
@@ -5738,7 +5792,44 @@ MonoBehaviour:
         Data: 0
       - Name: childs
         Entry: 7
-        Data: 423|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+        Data: 427|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
+          uNode3.Core]], mscorlib
+      - Name: 
+        Entry: 12
+        Data: 0
+      - Name: 
+        Entry: 13
+        Data: 
+      - Name: 
+        Entry: 8
+        Data: 
+      - Name: expanded
+        Entry: 5
+        Data: true
+      - Name: <isDestroyed>k__BackingField
+        Entry: 5
+        Data: false
+      - Name: 
+        Entry: 8
+        Data: 
+      - Name: 
+        Entry: 7
+        Data: 428|MaxyGames.UNode.ConstructorContainer, uNode3.Core
+      - Name: _name
+        Entry: 6
+        Data: 
+      - Name: _id
+        Entry: 3
+        Data: 28
+      - Name: _comment
+        Entry: 6
+        Data: 
+      - Name: _parent
+        Entry: 9
+        Data: 0
+      - Name: childs
+        Entry: 7
+        Data: 429|System.Collections.Generic.List`1[[MaxyGames.UNode.UGraphElement,
           uNode3.Core]], mscorlib
       - Name: 
         Entry: 12
@@ -5778,7 +5869,7 @@ MonoBehaviour:
         Data: 
       - Name: m_UniqueID
         Entry: 3
-        Data: 27
+        Data: 28
       - Name: 
         Entry: 8
         Data: 
@@ -5794,7 +5885,7 @@ MonoBehaviour:
   scriptData:
     fileName: ChangeColor
     selfTypeData:
-      typeName: 
+      typeName: uNodeSample.Playground.ChangeColor
       reference: {fileID: 0}
     typeDatas: []
     debug: 0
