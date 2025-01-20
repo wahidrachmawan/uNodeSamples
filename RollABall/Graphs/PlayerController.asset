@@ -18257,6 +18257,9 @@ MonoBehaviour:
       - Name: refKind
         Entry: 3
         Data: 0
+      - Name: useInInitializer
+        Entry: 5
+        Data: false
       - Name: value
         Entry: 6
         Data: 

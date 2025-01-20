@@ -15167,7 +15167,7 @@ MonoBehaviour:
         Data: UnityEngine.Rect, UnityEngine.CoreModule
       - Name: 
         Entry: 4
-        Data: -81.5
+        Data: -80
       - Name: 
         Entry: 4
         Data: 261
@@ -17533,7 +17533,7 @@ MonoBehaviour:
         Data: UnityEngine.Rect, UnityEngine.CoreModule
       - Name: 
         Entry: 4
-        Data: -131
+        Data: -130
       - Name: 
         Entry: 4
         Data: 261
@@ -17633,6 +17633,9 @@ MonoBehaviour:
       - Name: refKind
         Entry: 3
         Data: 0
+      - Name: useInInitializer
+        Entry: 5
+        Data: false
       - Name: value
         Entry: 6
         Data: 
